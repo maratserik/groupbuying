@@ -37,4 +37,4 @@ I welcome contributions from any developers, designers, and enthusiasts interest
 This project is licensed under the [The GNU General Public License v3.0] License - see the LICENSE file for details.
 
 Contact
-For any inquiries, feedback, or collaboration opportunities, feel free to reach out to us at [maracrasavap@gmail.com].
+For any inquiries, feedback, or collaboration opportunities, feel free to reach out to me at [maracrasavap@gmail.com].
