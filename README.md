@@ -1,6 +1,12 @@
 # Frontend For Group Buying Website
 
 
+## Code
+
+It was just an implementation of what I envisioned the site to be at early stages so i decided to use Framer first to build my idea of what website should be.
+
+Here is the link to the website: https://sure-teams-086853.framer.app/
+
 
 ## Group Delivering & Buying Platform
 ### Overview
